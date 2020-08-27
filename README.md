@@ -1,14 +1,12 @@
 # CTIS-365-Project
 
-Project Name :
+- Project Name :
+  - Total Number of Defence related UAV compression in the Middle East: Turkish Security Forces
 
-- Total Number of Defence related UAV compression in the Middle East: Turkish Security Forces
-
-Project Objective:
-
-- Learn R Language 
-- Learn R data visulaition
-- I Personally love Defence Topics :)
+- Project Objective:
+  - Learn R Language 
+  - Learn R data visulaition
+  - I Personally love Defence Topics :)
 
 - [R File](/R_Code):
 - [CVS Files](/Excel_Files):
