@@ -15,6 +15,7 @@
   - Very convoluted files, will be fixed in the future
 - [Graphs](/R_Final_Graphs):
   - ![alt text](https://github.com/omerwwazap/CTIS-365-Project/blob/master/R_Final_Graphs/Donut%20Chart%20Total%20Numer%20of%20UAV's%20by%20Country.jpeg "Donut Chart")
+  - Other graphs are in the .tiff format so github cant preview them.
 - Some Info:
   - Used Libraries:
     - ggpubr
