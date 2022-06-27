@@ -1,9 +1,9 @@
-# CTIS-365-Project
+# R Based Data Project
 
 - [Full Document Download](https://github.com/omerwwazap/CTIS-365-Project/blob/master/LeventDurdali_Drone_FIN.pdf)
   
 - Project Name :
-  - Total Number of Defence related UAV compression in the Middle East: Turkish Security Forces
+  - Total Number of Defence related UAV Comparison in the Middle East: Turkish Security Forces
 
 - Project Objective:
   - Learn R Language 
